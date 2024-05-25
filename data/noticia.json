@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "titulo":" Lorem ipsum dolor sit amet consectetur, adipisicing .",
+        "detalle": "Lorem ipsum dolor sit amet consectetur, adipisicing 1",
+        "imagen":"foto1.png"
+    },
+    {
+        "id":2,
+        "titulo": "Lorem ipsum dolor sit amet consectetur, adipisicing ",
+        "detalle": "Lorem ipsum dolor sit amet consectetur, adipisicing 2 ",
+        "imagen":"foto2.png"
+    },
+    {
+        "id":3,
+        "titulo": "Lorem ipsum dolor sit amet consectetur, adipisicing ",
+        "detalle": "Lorem ipsum dolor sit amet consectetur, adipisicing 3",
+        "imagen":"foto3.png"
+    },
+    {
+        "id":4,
+        "titulo": "Lorem ipsum dolor sit amet consectetur, adipisicing ",
+        "detalle": "Lorem ipsum dolor sit amet consectetur, adipisicing 4",
+        "imagen":"foto4.png"
+    },
+    {
+        "id":5,
+        "titulo": "Lorem ipsum dolor sit amet consectetur, adipisicing ",
+        "detalle": "Lorem ipsum dolor sit amet consectetur, adipisicing 4",
+        "imagen":"foto5.png"
+    }
+]
